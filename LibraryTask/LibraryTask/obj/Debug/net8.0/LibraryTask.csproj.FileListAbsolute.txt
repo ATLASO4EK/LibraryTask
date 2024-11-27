@@ -1,0 +1,14 @@
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\bin\Debug\net8.0\LibraryTask.exe
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\bin\Debug\net8.0\LibraryTask.deps.json
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\bin\Debug\net8.0\LibraryTask.runtimeconfig.json
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\bin\Debug\net8.0\LibraryTask.dll
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\bin\Debug\net8.0\LibraryTask.pdb
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.AssemblyInfo.cs
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.dll
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\refint\LibraryTask.dll
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.pdb
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\LibraryTask.genruntimeconfig.cache
+C:\Users\AtLaS\source\repos\LibraryTask\LibraryTask\obj\Debug\net8.0\ref\LibraryTask.dll
